@@ -1,0 +1,31 @@
+body
+{
+  background-color:#defcfc;
+}
+hr{
+  background-color:#defcfc;
+  border-style:none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+
+  width:5%
+}
+h1{
+  font-style:bold;
+  color:#278ea5;
+}
+h2
+{
+  font-style:italic;
+  color:#278ea5;
+}
+h3
+{
+  font-style:italic;
+  color:#278ea5;
+}
+img
+{
+  border-radius:50%;
+}
